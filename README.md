@@ -1,6 +1,6 @@
 # Perkopian
 
-Ngopi dulu ga sih
+Mangan Ngopi
 
 ## Getting Started
 
